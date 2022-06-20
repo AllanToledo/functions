@@ -5,5 +5,4 @@ int main()
 {
     printYourName("Carlo Rafael");
     system("pause");
-    return 0;
 }
