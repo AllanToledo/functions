@@ -6,4 +6,5 @@ int main()
     char *name = "John";
     printYourName(name);
     system("pause");
+    return 0;
 }
