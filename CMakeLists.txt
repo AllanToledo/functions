@@ -3,4 +3,10 @@ project(functions C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(functions src/main.c src/test.c src/print/print.c)
+add_executable(
+        programa
+        src/main.c
+        src/test.c
+        src/print/print.c
+)
+

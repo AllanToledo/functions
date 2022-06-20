@@ -3,6 +3,7 @@
 
 int main()
 {
-    printYourName("Carlo Rafael");
+    char *name = "John";
+    printYourName(name);
     system("pause");
 }
